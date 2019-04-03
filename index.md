@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 👉 What's next ?
+# 👉 What's Next ?
 
 I don't know maybe to write a book or to fork and PR, what do you think ? In fact I have found an excellent entry on how does Reg Braithwaite write books on [his blog](http://braythwayt.com/2015/01/29/how-i-write-books-with-github-and-leanpub.html) which motivated me to open an issue on his AMA - my Ask Me Anything is simply my github.io repo and feel free to open an issue - so I am moving on writing [a translation of Javascript Allongé](https://leanpub.com/javascript-rallonge) first then parallelly writing a book in [FR] and [EN] in the same time about the experience I've got this last years working on Phaser and particularly the Community Edition version, why not starting to PR officially ? I mean not just discussing the code by opening an issue, no seriously a real PR that engages myself in some official big projects of big companies here on GitHub.
 
