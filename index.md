@@ -2,6 +2,11 @@
 layout: default
 ---
 
+# What's next ?
+
+I don't know maybe to write a book or to fork and PR, what do you think ?
+
+
 # 👋 Hello, Microsoft
 
 The Octocat is out of the bag: GitHub is beeing bought by Microsoft (M$) and I don't know what I will become when the deal closes later this year. I’m confident that this change will be great for GitHub and developers around the world, and I wanted to take the opportunity to introduce myself.
