@@ -2,7 +2,7 @@
 
 This is also my AMA (Ask Me Anything) in GitHub and only GitHub related PLEASE.
 
-Check the WiKi
+Check the WiKi 👈 
 
 ## Setup
 
