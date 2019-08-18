@@ -1,6 +1,6 @@
 # Hello, GitHub
 
-This is also my AMA in GitHub and only GitHub related (please). 
+This is also my AMA in GitHub and only GitHub related PLEASE. 
 
 ## Setup
 
