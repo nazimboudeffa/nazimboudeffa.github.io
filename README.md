@@ -1,5 +1,7 @@
 # Hello, GitHub
 
+This is also my AMA in GitHub and only GitHub related (please). 
+
 ## Setup
 
 ```
