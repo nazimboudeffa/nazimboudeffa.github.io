@@ -1,6 +1,8 @@
 # Hello, GitHub
 
-This is also my AMA (Ask Me Anything) in GitHub and only GitHub related PLEASE. 
+This is also my AMA (Ask Me Anything) in GitHub and only GitHub related PLEASE.
+
+Check the WiKi
 
 ## Setup
 
