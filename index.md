@@ -8,7 +8,7 @@ While it's the end of the world with the Covid-19 I have stopped my contribution
 
 The only solution I have actually is :
 
-1. Make some cash on [eToro](https://www.etoro.com/people/nazimboudeffa) that can pay the web sites technologies and OVH hosting
+1. Make some cash on [eToro](https://www.etoro.com/people/nazimboudeffa) that can pay OVH hosting and the domain names
 2. Make the existing Ubuntu LAMP sites always available and develop them
 3. Work on a server with NGINX/HHVM/NODE
 4. Become a founder member of GFN and have fun with the BIG GAMES on Mixer
