@@ -2,6 +2,11 @@
 layout: default
 ---
 
+#  👎 Things are not simple (08/03/2020)
+
+While it's the end of the world with the Covid-19 I have stopped my contribution to PhaserJS Community Edition because of no cash and my web sites ar still without any ads from Google Ads or whatever, my ad server is working but nobody asked me to promote something, now I pass the major time updating a new project with [METATRADER](https://trello.com/b/YNVaqAtS/metatrader) to make some cash and keep the technologies up and running and playing the rest of the time on [GForceNow](https://trello.com/b/EBT5dqv1/gforcenow) searching for the best games to buy instead of buying anything and seeing it retired from the GFN list of games because they can't make more money buy selling them a second time like on Google Stadia which is weired. So, my previous post was not able to make things more suitable for me or motivates me to continue to develop cool stuff on GitHub and the problem is that I don't have the money to live in this way
+
+
 # 👉 What's Next ?
 
 I don't know maybe to write a book or to fork and PR, what do you think ? In fact I have found an excellent entry on how does Reg Braithwaite write books on [his blog](http://braythwayt.com/2015/01/29/how-i-write-books-with-github-and-leanpub.html) which motivated me to open an issue on his AMA - my Ask Me Anything is simply my github.io repo and feel free to open an issue - so I am moving on writing [a translation of Javascript Allongé](https://leanpub.com/javascript-rallonge) first then parallelly writing a book in [FR] and [EN] in the same time about the experience I've got this last years working on Phaser and particularly the Community Edition version, why not starting to PR officially ? I mean not just discussing the code by opening an issue, no seriously a real PR that engages myself in some official big projects of big companies here on GitHub.
