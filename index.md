@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#  👎 Things are not simple
+#  👎 Things are not Simple
 
 While it's the end of the world with the Covid-19 I have stopped my contribution to PhaserJS Community Edition because of no cash, the only solution is to go back to the previous post and finish the Phaser Cookbook before going ahead also my web sites are still without any ads from Google Ads or whatever the anouncer, while my ad server is working but nobody asked me to promote something, now I pass the major time updating a new project with [METATRADER](https://trello.com/b/YNVaqAtS/metatrader) to make some cash and keep the technologies up and running and playing the rest of the time on [GForceNow](https://trello.com/b/EBT5dqv1/gforcenow) searching for the best games to buy instead of buying anything and seeing it retired from the GFN list of games because they can't make more money so they are try to sell them a second time like on Google Stadia which is weired, or it mean that am in the wrong understanding of why when I buy a game on steam I can't play it on cloud service because I don't have a big 2000$ config. So, my previous post was not able to make things more suitable for me or motivates me to continue to develop cool stuff on GitHub and the problem is that I don't have the money to live in this way.
 
