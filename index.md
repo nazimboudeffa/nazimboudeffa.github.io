@@ -10,7 +10,7 @@ I've opened a Discord server and reorganised an old Slack one with some bot in t
 
 The Discord server is left public [Let's Code Better Together](https://discord.gg/EpZTKMb) 
 
-The Slack one will stay private and and a 30 days invit is sent when you [TIP ME](https://fr.tipeee.com/nazimboudeffa)
+The Slack one will stay private and a 30 days invit is sent when you [TIP ME](https://fr.tipeee.com/nazimboudeffa)
 
 ... UPDATING the after Covid-19 quaranteen [#StayAtHome](https://twitter.com/search?q=%23StayAtHome)
 
