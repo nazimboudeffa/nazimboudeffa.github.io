@@ -2,7 +2,17 @@
 layout: default
 ---
 
-#  👎 Things are not Simple
+# 😷 Working from Home but to do What ?
+
+It's the end of the quaranteen and I need a haircut, I have passed the last days at home reading and watching movies, nothing has changed before, while and after, now that people are working from home too, how can I find a job to let me live from my daily coding routine
+
+I've opened a Discord server and reorganised an old Slack one with some bot in the sens of working from home, while sending some invites on Discord to discuss code (as the major part of the communities are gamers) it seems that the communities have made some rules in this sens that I haven't know before, so I need to put the invit link somewhere to let my Discord server staying public and keep my Slack one private in the sens of GitHub has let organisations have illimited private repos and I have to find a way of making money with opensource
+
+The Discord server is [Let's Code Better Together](https://discord.gg/EpZTKMb) and the Slack one will stay private
+
+... UPDATING the after Covid-19 quaranteen [#StayAtHome](https://twitter.com/search?q=%23StayAtHome)
+
+# 👎 Things are not Simple
 
 While it's the end of the world with the Covid-19 I have stopped my contribution to PhaserJS Community Edition because of no cash to continue [answering questions for free](https://stackoverflow.com/search?q=user:2107253+[phaser-framework]), the only solution is to go back to the previous post and finish the Phaser Cookbook before going ahead also my web sites are still without any ads from Google Ads or whatever the anouncer, while my ad server is working but nobody asked me to promote something.
 
