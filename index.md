@@ -4,7 +4,7 @@ layout: default
 
 # 😷 Working from Home but to do What ?
 
-It's the end of the quaranteen and I need a haircut, I have passed the last days at home reading and watching movies, nothing has changed before, while and after, now that people are working from home too, how can I find a job to let me live from my daily coding routine
+It's the end of the quaranteen and I need a haircut, I have passed the last days at home reading mags and watching movies, nothing has changed before, while and after, now that people are working from home too, how can I find a job to let me live from my daily coding routine
 
 I've opened a Discord server and reorganised an old Slack one with some bot in the sens of working from home, while sending some invites on Discord to discuss code (as the major part of the communities are gamers) it seems that the communities have made some rules in this sens that I haven't know before, so I need to put the invit link somewhere to let my Discord server staying public and keep my Slack one private in the sens of GitHub has let organisations have illimited private repos and I have to find a way of making money with opensource
 
