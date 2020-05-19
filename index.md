@@ -8,9 +8,9 @@ It's the end of the quaranteen and I need a haircut, I have passed the last days
 
 I've opened a Discord server and reorganised an old Slack one with some bot in the sens of working from home, while sending some invites on Discord to discuss code (as the major part of the communities are gamers) it seems that the communities have made some rules in this sens that I haven't know before, so I need to put the invit link somewhere to let my Discord server staying public and keep my Slack one private in the sens of GitHub has let organisations have illimited private repos and I have to find a way of making money with opensource
 
-The Discord server is left public [Let's Code Better Together](https://discord.gg/EpZTKMb) 
+☕ The Discord server is left public [Let's Code Better Together](https://discord.gg/EpZTKMb) 
 
-The Slack one will stay private and a 30 days invit is sent when you [TIP ME](https://fr.tipeee.com/nazimboudeffa)
+🍰 The Slack one will stay private and a 30 days invit is sent when you [TIP ME](https://fr.tipeee.com/nazimboudeffa)
 
 ... UPDATING the after Covid-19 quaranteen [#StayAtHome](https://twitter.com/search?q=%23StayAtHome)
 
