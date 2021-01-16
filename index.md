@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# 😫 I am tired
+
+The story continue on [my livejournal's GitHub tag](https://nazimboudeffa.livejournal.com/tag/github)
+
 # 😷 Working from Home but What TODO ?
 
 It's the end of the quaranteen and I need a haircut, I have passed the last days at home reading mags and watching movies, nothing has changed before, while and after, now that people are working from home too, how can I find a job to let me live from my daily coding routine
