@@ -4,7 +4,7 @@ layout: default
 
 # 😫 I am tired
 
-The story continue on [my livejournal's GitHub tag](https://nazimboudeffa.livejournal.com/tag/github)
+STOP! I am going to write a bit on livejournal to explain why I can't continue my eutrepreneurship and take some distance after 5 years of hard work
 
 # 😷 Working from Home but What TODO ?
 
