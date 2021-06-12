@@ -4,7 +4,7 @@ layout: default
 
 # 🌘 I use dogecoin
 
-For about 6 months I've searched a way to make some cash on the internet and the only thing I've found is to participate on some little crypto devs
+For about 6 months after I've stopped my consulting company I've searched a way to make some cash on the internet and the only thing I've found is to participate on some little crypto devs
 
 MY ANONYMOUS DOGE ADDRESS (a fake account) IS [DDFbiN17opEj27yRA6v2nn2fburnFy3ueL](https://dogechain.info/address/DDFbiN17opEj27yRA6v2nn2fburnFy3ueL)
 
