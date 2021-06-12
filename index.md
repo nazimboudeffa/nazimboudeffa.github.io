@@ -2,6 +2,20 @@
 layout: default
 ---
 
+# I use dogecoin
+
+For about 6 months I've searched a way to make some cash on the internet and the only thing I've found is to participate on some little crypto devs
+
+MY ANONYMOUS DOGE ADDRESS (a fake account) IS [DDFbiN17opEj27yRA6v2nn2fburnFy3ueL](https://dogechain.info/address/DDFbiN17opEj27yRA6v2nn2fburnFy3ueL)
+
+*You can even tip me with [roger](https://theholyroger.com/) at this address VLPM4cvvuzKiZM7jUzMYqU7z6Fa9o7wcqd if you think it's a matter of fact bc I'll probably not see any diffrence in the account*
+
+Everything that happen here will be posted in other words on [my Instagram](https://www.instagram.com/nazimboudeffa) as soon as i find the good words and the right photo, I don't post bs and I don't use twitter everyday
+
+If you ask yourself what I do in general with my fake accounts check [this NFT](https://opensea.io/assets/0x8c5acf6dbd24c66e6fd44d4a4c3d7a2d955aaad2/110072971314011216380404500943545419230727261519465237232349005229132464281905) it's costing around 50$ just in fees on the blockchain
+
+PS : Keep in mind it's a donation and IT'S NOT A CONTRACT OF ANY KIND and please don't add me on Facebook (it's only for my family and friends)
+
 # 😫 I am tired
 
 STOP! I am going to write a bit on [livejournal](https://nazimboudeffa.livejournal.com/tag/github) to explain why I can't continue my eutrepreneurship and take some distance after 5 years of hard work
