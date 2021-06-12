@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# I use dogecoin
+# 🌘 I use dogecoin
 
 For about 6 months I've searched a way to make some cash on the internet and the only thing I've found is to participate on some little crypto devs
 
