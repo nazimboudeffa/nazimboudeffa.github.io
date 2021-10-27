@@ -4,7 +4,9 @@ layout: default
 
 # 😍 Searching for an employer
 
-I have passed these last months searching for an employer, and just found [TheCodingMachine](https://github.com/thecodingmachine) worked on WorkAdventure a little bit, mostly devops with Doscker Compose to be known in the community but nothing happened, I just had recently a little message asking me if i can discuss in pm on the Discord, I have made a list of [the available frenchtech companies on GitHub](https://github.com/nazimboudeffa/awesome-frenchtech), found PrestaShop as the next company to ask so joined their Slack for instance an,d stated to work
+I have passed these last months searching for an employer, and just found [TheCodingMachine](https://github.com/thecodingmachine) worked on WorkAdventure a little bit, mostly devops with Docker Compose to be known in the community but nothing happened, I just had recently a little message asking me if i can discuss HR in pm on the Discord, I was happy but didn't done that yet
+
+I have made a list of [the available frenchtech companies on GitHub](https://github.com/nazimboudeffa/awesome-frenchtech), found PrestaShop as the next company to ask so joined their Slack for instance an,d stated to work
 
 There are not many companies in France that are engaged in opensource and this is really bad
 
