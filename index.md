@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# 😎 I have finished a project
+
+Finally, with the help of [a friend](https://github.com/mistertest) I have finished a project, it's the first time of my coder life here on GitHub, I haven't expected such a result but it's here and working it's GFNGames.COM, and it needs 2 hours of maintenance by week done after the GFN Thursday Update
+
 # 😍 Searching for an employer
 
 I have passed these last months searching for an employer, and just found [TheCodingMachine](https://github.com/thecodingmachine) worked on WorkAdventure a little bit, mostly devops with Docker Compose to be known in the community but nothing happened, not really coded something with Phaser since they don't accept PR easily, I just had recently a little message asking me if i can discuss HR in pm on the Discord, I was happy but didn't done that yet
