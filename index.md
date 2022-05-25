@@ -4,7 +4,7 @@ layout: default
 
 # 😎 I have finished a project
 
-Finally, with the help of [a friend](https://github.com/mistertest) I have finished a project, it's the first time of my coder life here on GitHub, I haven't expected such a result but it's here and working it's GFNGames.COM, and it needs 2 hours of maintenance by week done after the GFN Thursday Update
+Finally, with the help of [a friend](https://github.com/mistertest) (he is a Freelancer so read what I said in my last post) I have finished a project, it's the first time of my coder life here on GitHub, I haven't expected such a result but it's here and working it's GFNGames.COM, and it needs 2 hours of maintenance by week done after the GFN Thursday Update
 
 # 😍 Searching for an employer
 
