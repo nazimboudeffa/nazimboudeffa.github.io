@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# 🍝 I have made my first Next.js project
+
+That's cool, one month to buil a bolierplate and a newsletter landing page
+
 # 🐒 I have learned my first framework
 
 I have learned Next.js and TailWind
